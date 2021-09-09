@@ -69,4 +69,9 @@ import 'zone.js/dist/zone';  // Included with Angular CLI.
  * Needed for: All but Chrome, Firefox, Edge, IE11 and Safari 10
  */
 // import 'intl';  // Run `npm install --save intl`.
-import 'zone.js/dist/zone' // zone используется angular
+//import 'zone.js/dist/zone' // zone используется angular
+//import 'core-js/es6'
+// для поддержки Reflect Api
+//import 'core-js/es7/reflect'
+// zone используется angular
+//import 'zone.js/dist/zone'
